@@ -13,11 +13,14 @@ document: https://developers.cloudflare.com/cloudflare-one/networks/connectors/c
 
 ## Quick Installation
 
-For Ubuntu 25.10 x64
+We use Ubuntu 25.10 x64
 
 ### Install Docker & Git
 
-And then, Install the Docker and Git to your server.
+Install the Docker and Git to your server.
+
+Install Docker Engine:
+https://docs.docker.com/engine/install/
 
 ``` bash
 # https://docs.docker.com/engine/install/debian/#install-using-the-repository
