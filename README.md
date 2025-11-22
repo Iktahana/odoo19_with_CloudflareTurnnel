@@ -51,8 +51,8 @@ sudo apt install git
 
 ```bash
 cd /opt/
-git clone https://github.com/Iktahana/odoo-19-docker-compose.git
-mv ./odoo-19-docker-compose odoo
+git clone https://github.com/Iktahana/odoo19_with_CloudflareTurnnel.git
+mv ./odoo19_with_CloudflareTurnnel odoo
 ```
 
 ### Set configs (.env)
