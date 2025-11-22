@@ -12,7 +12,6 @@ services:
 
   odoo:
     image: odoo:19
-    user: root
     depends_on:
       - db
     expose:
